@@ -18,12 +18,6 @@ A lightweight and efficient **RAG (Retrieval-Augmented Generation)** system buil
 
 ---
 
-## 📸 Demo Preview
-
-![RAG Screenshot](https://your-screenshot-link-if-any.com)
-
----
-
 ## 🧱 Tech Stack
 
 | Tool/Library         | Purpose                          |
