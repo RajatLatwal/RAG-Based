@@ -18,6 +18,13 @@ A lightweight and efficient **RAG (Retrieval-Augmented Generation)** system buil
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Click here to try it now!](https://rag-based-system-genai.streamlit.app/)  
+_**No setup required — just upload a PDF and start chatting!**_
+
+---
+
 ## 🧱 Tech Stack
 
 | Tool/Library         | Purpose                          |
